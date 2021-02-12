@@ -1383,8 +1383,8 @@ $lang = array
 	'district' => 'Khu vực',
 	'district_tips' => '<li>Bạn có thể chỉnh sữa dữ liệu riêng của khu vực bạn</li>',
 	'district_choose' => 'Chọn khu vực',
-	'district_birthcity' => '<input type="checkbox" name="birthcitychkall" onclick="checkAll(\'prefix\', this.form, \'birthcity\', \'birthcitychkall\')" class="checkbox">出生地',
-	'district_residecity' => '<input type="checkbox" name="residecitychkall" onclick="checkAll(\'prefix\', this.form, \'residecity\', \'residecitychkall\')" class="checkbox">居住地',
+	'district_birthcity' => '<input type="checkbox" name="birthcitychkall" onclick="checkAll(\'prefix\', this.form, \'birthcity\', \'birthcitychkall\')" class="checkbox">Nơi sinh',
+	'district_residecity' => '<input type="checkbox" name="residecitychkall" onclick="checkAll(\'prefix\', this.form, \'residecity\', \'residecitychkall\')" class="checkbox">Nơi cư trú',
 
 	'misc_focus' => 'Popup Quảng cáo trong bài viết',
 	'misc_focus_handadd' => 'Thêm thủ công',
